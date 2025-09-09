@@ -9,3 +9,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 This course assumes you have a basic understanding of React and JavaScript. If you're new to React, we recommend going through our React Foundations course first to learn the fundamentals of React, such as components, props, state, and hooks, and newer features like Server Components and Suspense.
 
 Testing Readme file
+Testing Extra stuff
